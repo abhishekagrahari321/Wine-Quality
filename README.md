@@ -3,8 +3,6 @@
 In which dataset contains following Attributes:
 
 
-Input variables (based on physicochemical tests):
-
 1 - fixed acidity
 
 2 - volatile acidity
